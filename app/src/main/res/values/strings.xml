@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Chocolate Cafe</string>
+    <string name="imgChocolateMousse">Chocolate Mousse Image</string>
+    <string name="imgChocolateCake">Chocolate Cake Image</string>
+    <string name="imgChocolateMacaroon">Chocolate Macaroon Image</string>
+</resources>
